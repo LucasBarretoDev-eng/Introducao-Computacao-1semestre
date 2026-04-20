@@ -9,7 +9,7 @@ Compreender a evolução das redes de computadores, identificar seus elementos b
 Cada grupo deve incluir neste repositório:
 
 ### 1. Linha do Tempo
-[[![Linha Do tempo atividade](imagens/Linha Do tempo.png)
+![Linha Do tempo atividade](imagens/LinhaDotempo.png)
 
 ### 2. Elementos da Rede
 - Esquema ilustrando os quatro elementos fundamentais:
