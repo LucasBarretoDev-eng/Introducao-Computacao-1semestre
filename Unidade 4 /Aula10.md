@@ -12,10 +12,10 @@ Cada grupo deve incluir neste repositório:
 ![Linha Do tempo atividade](Imagens/LinhaDotempo.png)
 
 ### 2. Elementos da Rede
-![Linha Do tempo atividade](Imagens/ElementosRede.png)
+![Elementos Rede  atividade](Imagens/ElementosRede.png)
 
 ### 3. Classificação de Redes
-![Linha Do tempo atividade](Imagens/ClassificaçãoRede.png)
+![Classificação Rede atividade](Imagens/ClassificaçãoRede.png)
 
 ## Organização dos Arquivos
 - Criar uma pasta com o nome do grupo (ex.: `Grupo1_Windows`, `Grupo2_Linux`).
