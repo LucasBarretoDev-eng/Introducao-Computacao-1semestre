@@ -25,3 +25,10 @@ Cada grupo deve incluir neste repositório:
   - **Guiados (com fio):** Par trançado, coaxial, fibra óptica
   - **Não guiados (sem fio):** Wi-Fi, Bluetooth, satélite, infravermelho
 - Esquema visual mostrando como os meios conectam os dispositivos.
+
+### 4. Conexão RFID 
+
+A conexão **RFID** (*Radio-Frequency Identification*) é uma tecnologia **sem fio** que utiliza ondas de rádio para identificar e transmitir dados entre dois componentes principais:
+
+* **Leitor:** Equipado com uma antena para emitir e receber sinais.
+* **Etiquetas (Tags):** Dispositivos que armazenam as informações a serem lidas.
