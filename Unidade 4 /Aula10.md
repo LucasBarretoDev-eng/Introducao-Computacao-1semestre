@@ -15,7 +15,7 @@ Cada grupo deve incluir neste repositório:
 ![Elementos Rede  atividade](Imagens/ElementosRede.png)
 
 ### 3. Classificação de Redes
-![Classificação Rede atividade](Imagens/ClassificaçãoRede.png)
+[![Classificação Rede atividade](Imagens/ClassificaçãoRede.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-Hardware/blob/main/Unidade%204%20/Imagens/Classifica%C3%A7%C3%A3o%20Rede.png)
 
 ## Organização dos Arquivos
 - Criar uma pasta com o nome do grupo (ex.: `Grupo1_Windows`, `Grupo2_Linux`).
