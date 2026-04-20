@@ -9,7 +9,7 @@ Compreender a evolução das redes de computadores, identificar seus elementos b
 Cada grupo deve incluir neste repositório:
 
 ### 1. Linha do Tempo
-![Linha Do tempo atividade](Imagens/LinhaDotempo.png)
+![[Linha Do tempo atividade](Imagens/LinhaDotempo.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-Hardware/blob/main/Unidade%204%20/Imagens/Linha%20Do%20tempo.png)
 
 ### 2. Elementos da Rede
 ![Elementos Rede  atividade](Imagens/ElementosRede.png)
