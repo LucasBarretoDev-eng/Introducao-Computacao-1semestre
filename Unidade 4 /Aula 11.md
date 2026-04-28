@@ -8,7 +8,7 @@ Cada grupo deve incluir neste repositório:
 
 ### 1. Diagramas de Topologias
 - Representação das principais topologias de rede:
-  - Estrela (Star)
+  - [Estrela (Star)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Anel.png)
   - Barramento (Bus)
   - Anel (Ring)
   - Malha (Mesh)
