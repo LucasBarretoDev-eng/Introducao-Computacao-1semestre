@@ -9,13 +9,13 @@ Cada grupo deve incluir neste repositório:
 ### 1. Diagramas de Topologias
 
   - Diagrama Estrela (Star)
-    ![[Estrela ](Imagens/DiagramaEstrela.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Estrela.png)
+    ![[Estrela ](Imagens/DiagramaEstrela.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Estrela.png)/
   - Diagrama Anel (Ring)
-    ![[Anel](Imagens/DiagramaAnel.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Anel.png)
+    ![[Anel](Imagens/DiagramaAnel.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Anel.png)/
   - Diagrama Barramento (Bus)
-    ![[Barramento ](Imagens/DiagramaBarramento.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Barramento.png)
+    ![[Barramento ](Imagens/DiagramaBarramento.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Barramento.png)/
   - DIagrama Malha (Mush)
-    ![[Malha](Imagens/DiagramaMalha.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Malha.png)
+    ![[Malha](Imagens/DiagramaMalha.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Malha.png)/
 
 ### 2. Quadro Comparativo de Dispositivos
 ![[Quadro Comparativo](Imagens/Quadrocomparativo.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Quadro%20comparativo.png)
