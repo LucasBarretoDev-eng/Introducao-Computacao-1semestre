@@ -8,14 +8,14 @@ Cada grupo deve incluir neste repositório:
 
 ### 1. Diagramas de Topologias
 - Representação das principais topologias de rede:
-  - [Estrela (Star)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Estrela.png).
-  - [Barramento (Bus)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Barramento.png).
-  - [Anel (Ring)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Anel.png)
-  - [Malha (Mesh)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Malha.png). 
-- Cada diagrama deve indicar os dispositivos centrais (hub, switch ou roteador) e os hosts conectados.
+  - ![[Estrela ](Imagens/DiagramaEstrela.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Estrela.png)
+  - ![[Anel](Imagens/DiagramaAnel.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Anel.png)
+  - ![[Barramento ](Imagens/DiagramaBarramento.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Barramento.png)
+  - ![[Malha](Imagens/DiagramaMalha.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Malha.png)
 
 ### 2. Quadro Comparativo de Dispositivos
 ![[Quadro Comparativo](Imagens/Quadrocomparativo.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Quadro%20comparativo.png)
+
 ### 3. Meios de Transmissão
 - Classificação dos meios de transmissão em:
   - **Guiados (com fio):** Par trançado, coaxial, fibra óptica
