@@ -37,5 +37,4 @@ Cada grupo deve incluir neste repositório:
 
 A conexão **RFID** (*Radio-Frequency Identification*) é uma tecnologia **sem fio** que utiliza ondas de rádio para identificar e transmitir dados entre dois componentes principais:
 
-* **Leitor:** Equipado com uma antena para emitir e receber sinais.
-* **Etiquetas (Tags):** Dispositivos que armazenam as informações a serem lidas.
+![[Radio](Imagens/radio.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/radio.png)
