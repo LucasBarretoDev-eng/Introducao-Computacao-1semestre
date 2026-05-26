@@ -15,7 +15,7 @@ Na **Aula 15**, exploramos mecanismos de proteção e novas tecnologias (backup,
 
 2. **Produção do artefato criativo**  
 
-![[Capa Álbum do Cidadão Digital: Protegendo Minhas Senhas e Dados ](Unidade4/Imagens/CapaAlbumGithub.png)(https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Capa%20Album%20Github.png)
+![[Capa Álbum do Cidadão Digital:Protegendo Minhas Senhas e Dados ](Imagens/CapaAlbumGithub.png)(https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Capa%20Album%20Github.png)
 
 
 ### Link Para Acesso Restante do Álbum: https://1drv.ms/p/c/aa473ab432f536d0/IQB9RfQAhrdKTYSIsEhJKPQPAU65ws2IMODlAhv7nATKTi4?e=bifrU8&nav=eyJzSWQiOjI1NiwiY0lkIjoyMjEwODY2NTUxfQ
