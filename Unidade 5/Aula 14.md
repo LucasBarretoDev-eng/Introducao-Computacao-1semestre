@@ -7,12 +7,14 @@ Compreender os conceitos fundamentais da segurança da informação, identificar
 Cada grupo deve incluir neste repositório:
 
 ### 1. Conceitos Fundamentais
-- Definição de **Segurança da Informação** (ISO/IEC 27000:2018).
+- Definição de Segurança da Informação (ISO/IEC 27000:2018)
+Segundo a norma estipulada pela ISO/IEC 27000:2018, a Segurança da Informação é definida como a preservação da confidencialidade, integridade e disponibilidade da informação. Adicionalmente, outras propriedades como autenticidade, responsabilidade, não-repúdio e confiabilidade também podem estar envolvidas.
+
 - Explicação dos atributos principais:
-  - **Confidencialidade**
-  - **Integridade**
-  - **Disponibilidade**
-  - **Privacidade**
+  - **Confidencialidade**: Garante que a informação seja acessível apenas por pessoas explicitamente autorizadas. Evita o vazamento de dados sensíveis e o acesso de terceiros mal-intencionados.
+  - **Integridade**: Garante que a informação seja mantida em seu estado original, protegendo-a contra modificações, exclusões ou corrupções não autorizadas durante o armazenamento ou transmissão.
+  - **Disponibilidade**: Garante que os usuários autorizados tenham acesso contínuo e confiável à informação e aos sistemas de comunicação sempre que necessário.
+  - **Privacidade**: Relaciona-se ao direito do indivíduo de controlar como seus dados pessoais são coletados, armazenados e compartilhados, assegurando a conformidade com leis de proteção de dados
 
 ### 2. Ameaças e Vulnerabilidades
 - Exemplos de ameaças digitais (phishing, malware, engenharia social).
@@ -25,27 +27,4 @@ Cada grupo deve incluir neste repositório:
   - Vulnerabilidade explorada.
   - Impactos causados.
   - Medidas de mitigação aplicadas ou recomendadas.
-  
-- **Opção B – Comentários sobre filmes relacionados à segurança da informação:**
-  - Exemplos: *Snowden*, *Hackers*, *The Social Network*.
-  - Como o filme retrata ameaças digitais.
-  - Conceitos de segurança da informação presentes.
-  - Reflexão crítica sobre a relação entre ficção e realidade.
 
-## Organização dos Arquivos
-- Criar uma pasta com o nome do grupo ou individual (ex.: `Grupo1_AtaqueReal`, `Grupo2_FilmeSeguranca`).
-- Dentro da pasta, incluir:
-  - `conceitos.md` ou `conceitos.pdf`
-  - `ameacas.md` ou `ameacas.pdf`
-  - `estudo_de_caso.md` ou `estudo_de_caso.pdf`
-  - `README.md` com breve descrição do trabalho.
-
-## Critérios de participação na aula prática
-- Clareza e organização das explicações.
-- Definição conceitual dos atributos e ameaças.
-- Análise no estudo de cenário real
-- Participação de todos!
-
-## Reflexão Individual
-Cada estudante deve produzir um texto curto (1 página) respondendo:  
-**“Por que o fator humano é considerado o elo mais frágil da segurança da informação?”**
