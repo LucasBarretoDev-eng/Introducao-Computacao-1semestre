@@ -38,3 +38,5 @@ Segundo a norma estipulada pela ISO/IEC 27000:2018, a Segurança da Informação
   - **Desativação de Protocolos Obsoletos:** *Desativar completamente o suporte ao protocolo antigo SMBv1 nos sistemas.*
   - **Política de Backups Eficientes:** *Manter rotinas de backup offline (3-2-1) para garantir a restauração dos dados sem a necessidade de pagar resgates.*
   - ** Segmentação de Rede:** *Isolar setores críticos da rede para impedir que um malware se espalhe para outros computadores da organização.*
+
+  ### Fonte: https://www.cloudflare.com/pt-br/learning/security/ransomware/wannacry-ransomware/
