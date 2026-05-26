@@ -14,15 +14,8 @@ Na **Aula 15**, exploramos mecanismos de proteção e novas tecnologias (backup,
    - https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/fasciculos-cert.br/fasciculo-protecao-de-dados-digital-govbr.pdf
 
 2. **Produção do artefato criativo**  
-   - O artefato deve explicar:  
-     - O que é a ameaça.  
-     - Quais riscos ela traz.  
-     - Quais mecanismos de proteção podem ser aplicados.  
-     - Exemplos práticos ou analogias para facilitar a compreensão.  
-   - Formatos possíveis:  
-     - Cartilha ilustrada  
-     - História em Quadrinhos (HQ)  
-     - Mangá  
-     - Álbum de figurinhas  
-     - Infográfico interativo  
-     - Outro formato criativo aprovado pela professora  
+
+
+
+
+### Link Para Acesso Restante do Álbum: https://1drv.ms/p/c/aa473ab432f536d0/IQB9RfQAhrdKTYSIsEhJKPQPAU65ws2IMODlAhv7nATKTi4?e=bifrU8&nav=eyJzSWQiOjI1NiwiY0lkIjoyMjEwODY2NTUxfQ
