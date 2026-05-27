@@ -5,7 +5,7 @@
 Produzir um **artefato criativo** que explique uma ameaça de segurança da informação, seus riscos e os mecanismos de proteção aplicáveis, conectando os conteúdos das Aulas 14 e 15.
 
 ### Contexto
-Na **Aula 14**, ***estudamos os conceitos e atributos da segurança da informação (confidencialidade, integridade, disponibilidade, privacidade) e as principais ameaças.***  
+Na **Aula 14**, *estudamos os conceitos e atributos da segurança da informação (confidencialidade, integridade, disponibilidade, privacidade) e as principais ameaças.*  
 Na **Aula 15**, exploramos mecanismos de proteção e novas tecnologias (backup, criptografia, antivírus, firewalls, autenticação multifator, blockchain, IA, biometria).  
 
 ### Instruções da Atividade
