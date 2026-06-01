@@ -18,3 +18,4 @@ Na **Aula 15**, exploramos mecanismos de proteção e novas tecnologias (backup,
     ![[Capa Álbum do Cidadão Digital: Protegendo Minhas Senhas e Dados](Unidade4/Imagens/CapaAlbumGithub.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Capa%20Album%20Github.png)
     # Imagem Gerada pelo Gemini
 
+**Link PDF:** https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%205/%C3%81lbum%20do%20Cidad%C3%A3o%20Digital.pdf
