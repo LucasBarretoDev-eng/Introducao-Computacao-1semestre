@@ -2,7 +2,7 @@
 ## Lucas Barreto RA: 22608058
 
 ### Objetivo
-Produzir um **artefato criativo** que explique uma ameaça de segurança da informação, seus riscos e os mecanismos de proteção aplicáveis, conectando os conteúdos das Aulas 14 e 15.
+Produzido um **Álbum de Figurinhas** que explique uma ameaça de segurança da informação, seus riscos e os mecanismos de proteção aplicáveis, conectando os conteúdos das Aulas 14 e 15.
 
 ### Contexto
 Na **Aula 14**, *estudamos os conceitos e atributos da segurança da informação (confidencialidade, integridade, disponibilidade, privacidade) e as principais ameaças.*  
