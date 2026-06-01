@@ -1,6 +1,6 @@
 # Aula 14 – Segurança da Informação: Conceitos, Atributos e Ameaças
 
-Lucas Barreto RA: 22608058
+##Lucas Barreto RA: 22608058
 
 ## Objetivo
 Compreender os conceitos fundamentais da segurança da informação, identificar seus principais atributos e reconhecer ameaças comuns, aplicando os conhecimentos em estudo de caso prático.
