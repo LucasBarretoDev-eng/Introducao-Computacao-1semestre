@@ -25,5 +25,4 @@ Na **Aula 15**, exploramos mecanismos de proteção e novas tecnologias (backup,
 
 Outro avanço importante é o uso da autenticação multifator, que adiciona etapas extras de verificação além da senha, dificultando acessos não autorizados. A criptografia também contribui para a proteção das informações, garantindo que dados armazenados ou transmitidos permaneçam protegidos contra interceptações. Tecnologias como automação e modelos de segurança modernos permitem respostas mais rápidas a incidentes e reduzem falhas humanas.
 
-Com a combinação dessas soluções, organizações e usuários conseguem aumentar a confidencialidade, integridade e disponibilidade das informações, reduzindo riscos e fortalecendo a proteção dos ambientes digitais diante das constantes evoluções das ameaças cibernéticas.
-”**
+Com a combinação dessas soluções, organizações e usuários conseguem aumentar a confidencialidade, integridade e disponibilidade das informações, reduzindo riscos e fortalecendo a proteção dos ambientes digitais diante das constantes evoluções das ameaças cibernéticas.”**
