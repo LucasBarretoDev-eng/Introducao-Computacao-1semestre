@@ -19,3 +19,11 @@ Na **Aula 15**, exploramos mecanismos de proteção e novas tecnologias (backup,
     # Imagem Gerada pelo Gemini
 
 **Link PDF:** https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%205/%C3%81lbum%20do%20Cidad%C3%A3o%20Digital.pdf
+
+### Reflexão Individual 
+**“As novas tecnologias desempenham um papel fundamental no fortalecimento dos mecanismos de proteção em Segurança da Informação, tornando os sistemas mais seguros e eficientes contra ameaças digitais. Ferramentas como inteligência artificial e aprendizado de máquina permitem identificar comportamentos suspeitos e detectar ataques de forma rápida, muitas vezes antes que causem danos. Além disso, a computação em nuvem oferece recursos avançados de proteção, como monitoramento contínuo, atualizações automáticas e armazenamento mais seguro dos dados.
+
+Outro avanço importante é o uso da autenticação multifator, que adiciona etapas extras de verificação além da senha, dificultando acessos não autorizados. A criptografia também contribui para a proteção das informações, garantindo que dados armazenados ou transmitidos permaneçam protegidos contra interceptações. Tecnologias como automação e modelos de segurança modernos permitem respostas mais rápidas a incidentes e reduzem falhas humanas.
+
+Com a combinação dessas soluções, organizações e usuários conseguem aumentar a confidencialidade, integridade e disponibilidade das informações, reduzindo riscos e fortalecendo a proteção dos ambientes digitais diante das constantes evoluções das ameaças cibernéticas.
+”**
