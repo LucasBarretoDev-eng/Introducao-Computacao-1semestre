@@ -38,3 +38,7 @@ Cada grupo deve incluir neste repositório:
 A conexão **RFID** (*Radio-Frequency Identification*) é uma tecnologia **sem fio** que utiliza ondas de rádio para identificar e transmitir dados entre dois componentes principais:
 
 ![[Radio](Imagens/radio.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/radio.png)
+
+### 5. Reflexão Individual
+- O protocolo que considero mais essencial para o funcionamento da Internet é o **TCP/IP (Transmission Control Protocol/Internet Protocol)**, pois ele é responsável por permitir a comunicação entre dispositivos conectados à rede. O IP cuida do endereçamento e do encaminhamento dos dados para o destino correto, enquanto o TCP garante que essas informações sejam entregues de forma organizada e sem perdas. Sem esse conjunto de protocolos, computadores, celulares e servidores não conseguiriam trocar informações corretamente. Por isso, o TCP/IP é considerado a base do funcionamento da Internet e de praticamente todos os serviços digitais utilizados atualmente.
+
