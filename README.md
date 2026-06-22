@@ -1,11 +1,11 @@
 
-# 💻 Introdução à Computação
+# Introdução à Computação
 
 A disciplina de **Introdução à Computação** é o ponto de partida fundamental no curso de Engenharia de Software. Ela funciona como a base teórica e prática necessária para entender como a tecnologia é construída e como os sistemas operam desde os níveis mais baixos.
 
 ---
 
-## 📚 O Que se Estuda?
+##  O Que se Estuda?
 O objetivo principal é oferecer uma visão panorâmica do universo da computação. Os tópicos geralmente incluem:
 
 * **História e Evolução:** Desde os primeiros computadores mecânicos até a computação em nuvem e quântica.
@@ -16,7 +16,7 @@ O objetivo principal é oferecer uma visão panorâmica do universo da computaç
 
 ---
 
-## 🛠️ O Papel na Engenharia de Software
+##  O Papel na Engenharia de Software
 Diferente de um curso estritamente técnico, na Engenharia de Software esta disciplina foca em pilares estratégicos:
 
 1.  **Abstração:** Aprender a isolar a complexidade de um problema para focar no que é essencial.
