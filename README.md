@@ -1,6 +1,8 @@
 
 # Introdução à Computação
 
+**Atividade de Introdução á Computação Divididas em Branches**
+
 A disciplina de **Introdução à Computação** é o ponto de partida fundamental no curso de Engenharia de Software. Ela funciona como a base teórica e prática necessária para entender como a tecnologia é construída e como os sistemas operam desde os níveis mais baixos.
 
 ---
