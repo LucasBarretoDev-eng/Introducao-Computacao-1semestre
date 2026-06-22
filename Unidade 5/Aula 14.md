@@ -43,11 +43,8 @@ Segundo a norma estipulada pela ISO/IEC 27000:2018, a Segurança da Informação
 
   ### 4. Reflexão Individual
   - ** Por que o fator humano é considerado o elo mais frágil da Segurança da Informação?
-
-No campo da Segurança da Informação, empresas investem constantemente em tecnologias avançadas para proteger seus dados e sistemas. Firewalls, antivírus inteligentes, criptografia e ferramentas de monitoramento representam importantes camadas de defesa contra ameaças digitais. Entretanto, mesmo a infraestrutura mais sofisticada pode ser comprometida por um único fator: o comportamento humano.
-
-A vulnerabilidade das pessoas não está relacionada à falta de capacidade ou conhecimento, mas às características naturais da psicologia humana. Diferentemente dos sistemas computacionais, que operam com base em regras e protocolos definidos, os indivíduos são influenciados por emoções, hábitos e circunstâncias. Sentimentos como urgência, curiosidade, medo, confiança e empatia são frequentemente explorados por criminosos por meio de técnicas de Engenharia Social.
-
-Ataques desse tipo procuram manipular usuários para que realizem ações que comprometam a segurança da organização. Um colaborador pode ignorar um e-mail suspeito comum, mas acabar abrindo um anexo com um título alarmante ou fornecer informações sensíveis a alguém que se apresenta como membro da equipe de suporte técnico.
+  - No campo da Segurança da Informação, empresas investem constantemente em tecnologias avançadas para proteger seus dados e sistemas. Firewalls, antivírus inteligentes, criptografia e ferramentas de monitoramento            representam importantes camadas de defesa contra ameaças digitais. Entretanto, mesmo a infraestrutura mais sofisticada pode ser comprometida por um único fator: o comportamento humano.
+  - A vulnerabilidade das pessoas não está relacionada à falta de capacidade ou conhecimento, mas às características naturais da psicologia humana. Diferentemente dos sistemas computacionais, que operam com base em regras     e protocolos definidos, os indivíduos são influenciados por emoções, hábitos e circunstâncias. Sentimentos como urgência, curiosidade, medo, confiança e empatia são frequentemente explorados por criminosos por meio de     técnicas de Engenharia Social.
+  - Ataques desse tipo procuram manipular usuários para que realizem ações que comprometam a segurança da organização. Um colaborador pode ignorar um e-mail suspeito comum, mas acabar abrindo um anexo com um título            alarmante ou fornecer informações sensíveis a alguém que se apresenta como membro da equipe de suporte técnico.
 
   ### Fonte: https://www.cloudflare.com/pt-br/learning/security/ransomware/wannacry-ransomware/
